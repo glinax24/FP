@@ -1,0 +1,14 @@
+{
+  "workDirectory": "transfer-work",
+  "logFile": "transfer-manager.log",
+  "defaultPartSize": "2 GB",
+  "minimumPartSize": "64 MB",
+  "reservedSpacePerMedia": "500 MB",
+  "verifyAfterWrite": true,
+  "checksumAlgorithm": "SHA-256",
+  "overwriteMode": "ask",
+  "preserveEmptyDirectories": true,
+  "fileNameTemplate": "{setName}.part{number}",
+  "mediaDescriptorFile": "media-info.json",
+  "manifestFile": "manifest.json"
+}

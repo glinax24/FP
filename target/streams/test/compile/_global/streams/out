@@ -1,0 +1,8 @@
+[error] -- [E007] Type Mismatch Error: D:\FP\hello-world\src\test\scala\transfer\operations\RestorerSuite.scala:124:46 
+[error] 124 |      val report = Restorer.restore(manifest, media, out, config).fold(err => fail(err.message), identity)
+[error]     |                                              ^^^^^
+[error]     |                       Found:    (media : List[transfer.domain.Media])
+[error]     |                       Required: List[java.nio.file.Path]
+[error]     |
+[error]     | longer explanation available when compiling with `-explain`
+[error] one error found

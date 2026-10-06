@@ -1,0 +1,23 @@
+[debug] Running TaskDef(transfer.operations.SessionIOSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.operations.WriterSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.operations.PartPackerSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.cli.CommandParserSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.operations.RestorerSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.planning.PlannerSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.app.SpecGapSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.operations.CollectorSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.app.AppSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Running TaskDef(transfer.util.SizeFormatSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Summary for munit not available.
+[info] Passed: Total 113, Failed 0, Errors 0, Passed 113
+[debug] Passed tests:
+[debug] 	transfer.app.AppSuite
+[debug] 	transfer.operations.WriterSuite
+[debug] 	transfer.planning.PlannerSuite
+[debug] 	transfer.operations.RestorerSuite
+[debug] 	transfer.util.SizeFormatSuite
+[debug] 	transfer.cli.CommandParserSuite
+[debug] 	transfer.operations.PartPackerSuite
+[debug] 	transfer.operations.CollectorSuite
+[debug] 	transfer.app.SpecGapSuite
+[debug] 	transfer.operations.SessionIOSuite

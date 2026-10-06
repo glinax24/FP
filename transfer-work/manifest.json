@@ -1,0 +1,54 @@
+{
+  "setId": "fc7183",
+  "name": "me",
+  "createdAt": "2026-10-06T08:35:25.396934600Z",
+  "fileCount": 4,
+  "totalSize": 173,
+  "completed": true,
+  "mediaCount": 2,
+  "mediaLabels": [
+    "n1",
+    "n2"
+  ],
+  "mediaPaths": [
+    "D:\\FP\\n1",
+    "D:\\FP\\n2"
+  ],
+  "dirs": [
+    "papka2/papka3"
+  ],
+  "checksumAlgorithm": "SHA-256",
+  "preserveEmptyDirectories": true,
+  "fileNameTemplate": "{setName}.part{number}",
+  "files": [
+    {
+      "relPath": "babl.txt",
+      "size": 43,
+      "checksum": "327283757d7a9a8e1f4bfda79789f102b08edc0e2ddfa4dc114d25b4fd2a1574"
+    },
+    {
+      "relPath": "papka/01.txt",
+      "size": 0,
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relPath": "papka/02.txt",
+      "size": 74,
+      "checksum": "ae9b0f3ac4f39d2aa77b4e7ebf9bc6750960cf20b4a5d0c8d582bf937cbdcaef"
+    },
+    {
+      "relPath": "papka2/gg.txt",
+      "size": 56,
+      "checksum": "8638a4ca3c0068d4ae954e66fce8ba0e04222b2917102b0531a4e1421494efb0"
+    }
+  ],
+  "parts": [
+    {
+      "number": 1,
+      "fileName": "me.part001",
+      "mediaNumber": 1,
+      "size": 173,
+      "checksum": "479afc54c6eddbbbcaf0fe0112038a344fb7d55cdd2e0ca2ebef8b6c7ce8fba3"
+    }
+  ]
+}

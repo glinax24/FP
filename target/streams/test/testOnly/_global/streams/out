@@ -1,0 +1,6 @@
+[debug] Running TaskDef(transfer.operations.RestorerSuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])
+[debug] Summary for munit not available.
+[error] Failed: Total 1, Failed 1, Errors 0, Passed 0
+[error] Failed tests:
+[error] 	transfer.operations.RestorerSuite
+[error] (Test / testOnly) sbt.TestsFailedException: Tests unsuccessful

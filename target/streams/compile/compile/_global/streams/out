@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: D:\FP\hello-world\src\main\scala\transfer\operations\Writer.scala:69:56 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m69 |[0m        [33mif[0m rest <= [32m0[0m [33mthen[0m done.update(relPath, [33mChecksum[0m.finish(digests(relPath)))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                               ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m           value finish is not a member of object transfer.util.Checksum[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

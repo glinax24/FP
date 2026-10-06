@@ -1,0 +1,1 @@
+["transfer.app.AppSuite","transfer.operations.WriterSuite","transfer.planning.PlannerSuite","transfer.operations.RestorerSuite","transfer.util.SizeFormatSuite","transfer.cli.CommandParserSuite","transfer.operations.PartPackerSuite","transfer.operations.CollectorSuite","transfer.app.SpecGapSuite","transfer.operations.SessionIOSuite"]
